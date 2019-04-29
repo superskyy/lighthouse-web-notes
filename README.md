@@ -4,4 +4,4 @@
 
 This repository contains all of the notes taken by [Peter](https://github.com/superskyy)for the Lighthouse Labs Web Development Bootcamp.
 
-[My profile](https://github.com/superskyy
+[My GitHub profile](https://github.com/superskyy)
